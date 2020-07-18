@@ -6,9 +6,11 @@
 
 </div>
 
-<div>
-  
-</div>
+##### 🌱 I’m currently learning in SSAFY
+### Skill
+`Java` `Kotlin` `Python` `Go` `Spring` `SpringBoot` `Android` `Flask`
+
+
 
 <!--
 **msnodeve/msnodeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
