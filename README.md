@@ -24,5 +24,5 @@
 
 <br><br>
 
-![MyeongSeok KIM's github stats](https://github-readme-stats.vercel.app/api?username=msnodeve&show_icons=true) [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=msnodeve)](https://solved.ac/msnodeve)
-
+![MyeongSeok KIM's github stats](https://github-readme-stats.vercel.app/api?username=msnodeve&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msnodeve&layout=compact)](https://github.com/msnodeve)
