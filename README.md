@@ -7,11 +7,15 @@
 
 <br>
 
-### 🌱 I’m currently learning in SSAFY 2020.01.06 ~ 
-## Skill
+## [스트레스를 즐기는 개발자, 김명석입니다.](https://www.notion.so/msnodeve/6a163aabbc584d4cb2232e3bc9e5eabe)
+
+<br><br>
+
 ### Language
 ![](https://img.shields.io/badge/Java-blue?logo=Java&colorB=232F3E) ![](https://img.shields.io/badge/Kotlin-blue?logo=Kotlin&colorB=232F3E) ![](https://img.shields.io/badge/Go-blue?logo=Go&colorB=232F3E) ![](https://img.shields.io/badge/Pyhton-blue?logo=Python&colorB=232F3E) ![](https://img.shields.io/badge/JavaScript---?logo=JavaScript&colorB=232F3E)
 
 <br><br>
 
-![MyeongSeok KIM's github stats](https://github-readme-stats.vercel.app/api?username=msnodeve&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msnodeve&layout=compact)](https://github.com/msnodeve)
+![MyeongSeok KIM's github stats](https://github-readme-stats.vercel.app/api?username=msnodeve&show_icons=true&count_private=true)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msnodeve&layout=compact)](https://github.com/msnodeve) -->
