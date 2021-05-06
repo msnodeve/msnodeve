@@ -5,11 +5,9 @@
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:msnodeve@gmail.com)](mailto:msnodeve@gmail.com)
 </div>
 
+### [Introduction](https://www.notion.so/msnodeve/6a163aabbc584d4cb2232e3bc9e5eabe)
+
 <br>
-
-## [스트레스를 즐기는 개발자, 김명석입니다.](https://www.notion.so/msnodeve/6a163aabbc584d4cb2232e3bc9e5eabe)
-
-<br><br>
 
 ### Language
 ![](https://img.shields.io/badge/Java-blue?logo=Java&colorB=232F3E) ![](https://img.shields.io/badge/Kotlin-blue?logo=Kotlin&colorB=232F3E) ![](https://img.shields.io/badge/Go-blue?logo=Go&colorB=232F3E) ![](https://img.shields.io/badge/Pyhton-blue?logo=Python&colorB=232F3E) ![](https://img.shields.io/badge/JavaScript---?logo=JavaScript&colorB=232F3E)
